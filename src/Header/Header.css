@@ -1,0 +1,20 @@
+.header { 
+    width: 100%;
+    color: #fff;
+   
+}
+
+.titleBg { 
+    height: 180px;
+    width: 100%;
+    background-color: #476f20;
+}
+
+.title { 
+    padding-top: 120px;
+    color: #fff;
+    font-size: 30px;
+    
+}
+
+

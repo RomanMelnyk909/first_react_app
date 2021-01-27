@@ -1,0 +1,33 @@
+.calculatorTitle { 
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.calculator  { 
+    margin: 0 auto;
+    padding: 20px;
+    height: 300px;
+    width: 800px;
+    background-color: #eeedef;
+    border: 2px solid #828182;
+    border-radius: 3px;
+}
+
+.formTitle { 
+    font-style: 16px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.inputText { 
+    margin-bottom: 10px;
+}
+
+.resultTitle { 
+    font-style: 16px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}

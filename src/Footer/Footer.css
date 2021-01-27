@@ -1,0 +1,32 @@
+.footer { 
+    margin-top: 40px;
+    height: 200px;
+    width: 100%;
+    background-color: #1a191a;
+    color: #bfc1bf;
+}
+
+.footerInner { 
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.author{ 
+    font-style: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+
+
+li { 
+    list-style: none;
+}
+
+a { 
+    color: #bfc1bf;
+    transition: color .1s linear;
+}
+a:hover { 
+    color: #fff;
+}
